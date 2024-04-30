@@ -18,11 +18,10 @@ For English and other Language ReadMe, please use your Browser Translator~
 * 音频可视化——享受视听的叠加乐趣
 * 自定义你的音乐歌单——指定你想听的音乐列表，进一步享受你的个人口味
 
-| ![1714398232071](https://file+.vscode-resource.vscode-cdn.net/f%3A/HKUST-GZ-Photography/image/README/1714398232071.png) | ![1714477127487](image/README/1714477127487.png)                                                                        | ![1714398489011](image/README/1714398489011.png)                                                                        |
-| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| ![1714398950932](https://file+.vscode-resource.vscode-cdn.net/f%3A/HKUST-GZ-Photography/image/README/1714398950932.png) | ![1714398235650](image/README/1714398235650.png)                                                                        | ![1714398240967](image/README/1714398240967.png)                                                                        |
-| ![1714398244764](image/README/1714398244764.png)                                                                        | ![1714398249514](https://file+.vscode-resource.vscode-cdn.net/f%3A/HKUST-GZ-Photography/image/README/1714398249514.png) | ![1714398247089](https://file+.vscode-resource.vscode-cdn.net/f%3A/HKUST-GZ-Photography/image/README/1714398247089.png) |
-| ![1714398257654](image/README/1714398257654.png)                                                                        | ![1714398261127](image/README/1714398261127.png)                                                                        | ![1714398272731](image/README/1714398272731.png)                                                                        |
+| ![1714478256217](image/README/1714478256217.png) | ![1714478225739](image/README/1714478225739.png) | ![1714478242991](image/README/1714478242991.png) |
+| ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
+| ![1714478296830.png](image/README/1714478296830.png) | ![1714478231775](image/README/1714478231775.png) | ![1714478270990](image/README/1714478270990.png) |
+| ![1714478280670](image/README/1714478280670.png) | ![1714478236722](image/README/1714478236722.png) | ![1714478276365](image/README/1714478276365.png) |
 
 ## 系统要求
 
@@ -36,7 +35,7 @@ For English and other Language ReadMe, please use your Browser Translator~
 ## 安装使用
 
 1. 下载 : [**Releases · Lizhenghe-Chen/HKUST-GZ-Photography (github.com)**](https://github.com/Lizhenghe-Chen/HKUST-GZ-Photography/releases)。只需下载7z高压缩的文件
-2. 解压。将文件解压在你期望的位置即可
+2. 解压。将文件解压在你期望的位置即可，点击exe即可运行
 3. 音乐文件夹（非必须），您可以准备一个文件夹来包含您想在应用内播放的音乐（支持的格式：MP3，wav，flac）以便后续使用
 
 ## 操作手册
