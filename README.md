@@ -1,6 +1,10 @@
-# HKUST GZ Photography
+# HKUST GZ Photography 香港科技大学广州校园浏览项目
 
- For testing HDRP and other functions
+> Unfinished
+
+用于测试HDRP和其它功能，主要用于学习和练习拍照技巧和基础知识，感兴趣的伙伴可以下载尝试
+
+For English and other Language ReadMe, please use your Browser Translator~
 
 ## 功能概览
 
@@ -14,15 +18,16 @@
 * 音频可视化——享受视听的叠加乐趣
 * 自定义你的音乐歌单——指定你想听的音乐列表，进一步享受你的个人口味
 
-| ![1714398312396](image/README/1714398312396.png) | ![1714398950932](image/README/1714398950932.png) | ![1714398489011](image/README/1714398489011.png) |
-| ---------------------------------------------- | ---------------------------------------------- | ---------------------------------------------- |
-| ![1714398232071](image/README/1714398232071.png) | ![1714398235650](image/README/1714398235650.png) | ![1714398240967](image/README/1714398240967.png) |
-| ![1714398244764](image/README/1714398244764.png) | ![1714398247089](image/README/1714398247089.png) | ![1714398249514](image/README/1714398249514.png) |
-| ![1714398257654](image/README/1714398257654.png) | ![1714398261127](image/README/1714398261127.png) | ![1714398272731](image/README/1714398272731.png) |
+| ![1714398232071](https://file+.vscode-resource.vscode-cdn.net/f%3A/HKUST-GZ-Photography/image/README/1714398232071.png) | ![1714477127487](image/README/1714477127487.png)                                                                        | ![1714398489011](image/README/1714398489011.png)                                                                        |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| ![1714398950932](https://file+.vscode-resource.vscode-cdn.net/f%3A/HKUST-GZ-Photography/image/README/1714398950932.png) | ![1714398235650](image/README/1714398235650.png)                                                                        | ![1714398240967](image/README/1714398240967.png)                                                                        |
+| ![1714398244764](image/README/1714398244764.png)                                                                        | ![1714398249514](https://file+.vscode-resource.vscode-cdn.net/f%3A/HKUST-GZ-Photography/image/README/1714398249514.png) | ![1714398247089](https://file+.vscode-resource.vscode-cdn.net/f%3A/HKUST-GZ-Photography/image/README/1714398247089.png) |
+| ![1714398257654](image/README/1714398257654.png)                                                                        | ![1714398261127](image/README/1714398261127.png)                                                                        | ![1714398272731](image/README/1714398272731.png)                                                                        |
 
 ## 系统要求
 
 * 操作系统：Windows10及以上
+* 界面语言：English
 * 最低显卡：GTX1060
 * 推荐显卡：RTX3060+
 * 最低内存：8GB
